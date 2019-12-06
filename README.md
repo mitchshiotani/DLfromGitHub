@@ -30,10 +30,10 @@ You should have Python v.3.8.0 installed.
    directory to download -          Name of the directory to download.  If it's a directory within a directory, write directories separated by forward slashes (/).  
    
 3. Run command line; the final output will be a directory organized as below:
-    Organization Name
-     - Repository Name
-      - Directory To Download
-       - Files in directory
+    - Organization Name
+      - Repository Name
+        - Directory To Download
+          - Files in directory
        
 ## Limitations:
 
