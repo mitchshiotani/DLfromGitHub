@@ -13,7 +13,9 @@ Thank you to Kevin Sookocheff for providing the functions for the script in his 
 
 ## Pre-recs:
 
-You should have Python v.3.8.0 installed.  
+You should have the following installed:
+- Python v.3.8.0
+- PyGithub (run `pip install pygithub`)
 
 ## How To Use:
 
