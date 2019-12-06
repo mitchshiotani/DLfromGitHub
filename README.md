@@ -21,12 +21,12 @@ You should have Python v.3.8.0 installed.
 2. Run python main_dl_github.py + <necessary parameters> .  Enter parameters as shown below:
   
    `python main_dl_github.py -u=<username> -p=<password> -o=<organization name> -r=<repository name> -b=<branch, or tag, to download> -d=<directory to download>`
-  - username:                       GitHub username.
-  - password:                       GitHub password.
-  - organization name:              Name of the organization in which the repo to download resides.  
-  - repository name:                Name of the repo to download.
-  - branch, or tag, to download:    The name of the branch to download (exp: master)
-  - directory to download:          Name of the directory to download.  If it's a directory within a directory, write directories separated by forward slashes (/).  
+  - `username`:                       GitHub username.
+  - `password`:                       GitHub password.
+  - `organization name`:              Name of the organization in which the repo to download resides.  
+  - `repository name`:                Name of the repo to download.
+  - `branch, or tag, to download`:    The name of the branch to download (exp: master)
+  - `directory to download`:          Name of the directory to download.  If it's a directory within a directory, write directories separated by forward slashes (/).  
    
 3. Run command line; the final output will be a directory organized as below:
     - Organization Name
