@@ -15,7 +15,7 @@ Thank you to Kevin Sookocheff for providing the functions for the script in his 
 
 You should have the following installed:
 - Python v.3.8.0
-- PyGithub (run `pip install pygithub`)
+- PyGithub (run `pip install PyGithub`)
 
 ## How To Use:
 
