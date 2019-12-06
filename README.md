@@ -17,8 +17,9 @@ You should have Python v.3.8.0 installed.
 
 ## How To Use:
 
-1. In command line, move to the directory with main_dl_github.py in it  
-2. Run python main_dl_github.py + <necessary parameters> .  Enter parameters as shown below:
+1. Download main_dl_github.py
+2. In command line, move to the directory with main_dl_github.py in it  
+3. Run python main_dl_github.py + <necessary parameters> .  Enter parameters as shown below:
   
    `python main_dl_github.py -u=<username> -p=<password> -o=<organization name> -r=<repository name> -b=<branch, or tag, to download> -d=<directory to download>`
   - `username`:                       GitHub username.
@@ -28,7 +29,7 @@ You should have Python v.3.8.0 installed.
   - `branch, or tag, to download`:    The name of the branch to download (exp: master)
   - `directory to download`:          Name of the directory to download.  If it's a directory within a directory, write directories separated by forward slashes (/).  
    
-3. Run command line; the final output will be a directory organized as below:
+4. Run command line; the final output will be a directory organized as below:
     - Organization Name
       - Repository Name
         - Directory To Download
@@ -40,3 +41,4 @@ Due to the limitations of PyGitHub, files above 1MB will not be downloaded.  A m
 
 ## To-Do (future upgrade ideas):
 - Current script only allows for downloading directories from repos of organizations.  Should create ways for users to download other forms of private repos (exp: those shared by other users)
+- Give users to select the local directory in which they want the GitHub directories to be downloaded to
