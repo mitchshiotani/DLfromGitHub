@@ -1,5 +1,5 @@
 # DLfromGitHub
-A simple Python script, created with PyGitHub, to download individual directories/ files from a GitHub repo
+A simple Python script, created with PyGitHub, to download individual directories/ files from private GitHub repos
 
 ## Purpose:
 
