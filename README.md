@@ -31,9 +31,9 @@ You should have Python v.3.8.0 installed.
    
 3. Run command line; the final output will be a directory organized as below:
     Organization Name
-     > Repository Name
-      > Directory To Download
-       > Files in directory
+     - Repository Name
+      - Directory To Download
+       - Files in directory
        
 ## Limitations:
 
