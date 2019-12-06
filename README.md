@@ -20,7 +20,7 @@ You should have Python v.3.8.0 installed.
 1. In command line, move to the directory with main_dl_github.py in it  
 2. Run python main_dl_github.py + <necessary parameters> .  Enter parameters as shown below:
   
-   python main_dl_github.py -u=<username> -p=<password> -o=<organization name> -r=<repository name> -b=<branch, or tag, to download> -d=<directory to download>
+   `python main_dl_github.py -u=<username> -p=<password> -o=<organization name> -r=<repository name> -b=<branch, or tag, to download> -d=<directory to download>`
   
    username -                       GitHub username.
    password -                       GitHub password.
